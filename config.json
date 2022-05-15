@@ -1,0 +1,34 @@
+{
+    "mailVerify" : true,
+
+    "useHotmailbox" : false,
+    "hotmailboxApiKey" : "",
+    "saveBuyHotmails" : true,
+    "saveBuyHotmailsPath":"data/emails.txt",
+    "hotmailBoxTimeout" : 30,
+
+    "customDomain" : "@domain.com",
+    "emailServerIp" : "",
+
+
+    "use5sim" :false,
+    "5simApiKey" :  "",
+    "5simContry" : "russia",
+    "5simOperator" : "any",
+
+    "useSmsActivate" :false,
+    "smsActivateApiKey" : "",
+    "smsActivateContry" : "russia",
+    
+    "changeTokenPfp" : false,
+
+    "useAntiCaptcha" : true,
+    "antiCaptchaApiKey" : "",
+
+    "sovlerIp" : "",
+
+    "joinTokenOnCreation" : false,
+    "serverInviteToJoinOnCreation" : ""
+
+    
+}
